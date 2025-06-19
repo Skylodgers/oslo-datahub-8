@@ -1,0 +1,22 @@
+*.pyc
+*.log
+node_modules
+coverage/
+datahub/logs
+datahub/export_deliverables
+datahub/cantaloupe/*
+datahub/staticfiles
+datahub/media/packages
+datahub/media/build/
+datahub/uploadedfiles/*
+datahub/settings_local.py
+webpack-stats.json
+.vscode/
+*.egg-info
+.DS_STORE
+CACHE
+frontend_configuration
+
+# Packaging
+build/
+dist/
